@@ -13,7 +13,9 @@ Hey, I am Felix, I come from Germany, Cologne. Every day I try to improve myself
 👯 I’m looking to collaborate on java projects.
 
 ❤️ My current favorite project
+<p align="center"><center>
 <img src=https://github-readme-stats.vercel.app/api/pin/?username=SquareCodeFX&repo=intect&theme=radical alt=SquareCodeFX />
+</center></p>
 
 💬 Ask me about memes, anime or games.
 

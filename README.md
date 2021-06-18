@@ -1,29 +1,23 @@
-<p align="center"> <h1 align="left"> Felix M. - SquareCodeFX </h1> </p>
-<p align="center">
-<a href="https://github.com/squarecodefx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="rexlManu" height="20" width="20" /></a>
-<a href="https://twitter.com/squarekot" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rexlManu" height="20" width="20" /></a>
-</p>
+<body>
+        <div id="eelcontainer" class="eel">
+            <div id="loader" style="opacity: 0; display: none;">LOADING...</div>
+            <div id="introtext">yo</div>
+            <div id="allimages" style="display: block; opacity: 1; left: 0px;">
+                <img class="eelimages" id="eelimage1" src="images/eelslap_site_panorama1.jpg" width="15360" height="480">
+                <img class="eelimages" id="eelimage2" src="images/eelslap_site_panorama2.jpg" width="14720" height="480">
+                <img class="eelimages" id="eelimage3" src="images/eelslap_site_panorama3.jpg" width="15360" height="480">
+                <img class="eelimages" id="eelimage4" src="images/eelslap_site_panorama4.jpg" width="14720" height="480">
+            </div>
+        </div>
+        <div class="footer">
+            <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" style="position: static; visibility: visible; width: 60px; height: 20px;" title="Twitter Tweet Button" src="https://platform.twitter.com/widgets/tweet_button.06c6ee58c3810956b7509218508c7b56.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http%3A%2F%2Feelslap.com%2F&amp;size=m&amp;text=Eel%20slap!&amp;time=1624015615058&amp;type=share&amp;url=http%3A%2F%2Fwww.eelslap.com" data-url="http://www.eelslap.com"></iframe>
+            <script type="text/javascript" src="http://platform.twitter.com/widgets.js">
+            </script>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.eelslap.com&amp;send=false&amp;layout=box_count&amp;width=55&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:55px; height:62px;">
+            </iframe><br>
 
-Hey, I am Felix, I come from Germany, Cologne. Every day I try to improve myself and perfect my skills. I am always open for discussions or like to participate in projects. I am also happy when people contact me via Twitter or other ways. You are also welcome to have a look at my repositories and contribute as well.
+            <a href="http://actnormal.co" target="_blank">made by</a>
+        </div>
+    
 
-<!--🔭 I’m currently working on opensource project [name](https://github.com/SquareCodeFX/name)-->
-
-🌱 I’m currently learning continuous deployment.
-
-👯 I’m looking to collaborate on java projects.
-
-💬 Ask me about memes, anime or games.
-
-⚡ Fun fact: My favorite anime currently is tokyo ghoul
-
-📫 How to reach me:
-
-- [Twitter](https://twitter.com/squarekot)
-- [Steam](https://steamcommunity.com/id/SquareCode)
-- Discord: snxqe悪魔#2831
-
-
-<p align="center"><center>
-	<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX />
-	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&layout=compact&theme=radical  alt=SquareCodeFX />
-</center></p>
+<iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=http%3A%2F%2Feelslap.com" title="Twitter settings iframe" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body>

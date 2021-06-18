@@ -12,6 +12,9 @@ Hey, I am Felix, I come from Germany, Cologne. Every day I try to improve myself
 
 👯 I’m looking to collaborate on java projects.
 
+❤️ My current favorite project
+<img src=https://github-readme-stats.vercel.app/api/pin/?username=SquareCodeFX&repo=intect&theme=radical alt=SquareCodeFX />
+
 💬 Ask me about memes, anime or games.
 
 ⚡ Fun fact: My favorite anime currently is tokyo ghoul
@@ -26,5 +29,4 @@ Hey, I am Felix, I come from Germany, Cologne. Every day I try to improve myself
 <p align="center"><center>
 	<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX />
 	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&layout=compact&theme=radical alt=SquareCodeFX />
-	<img src=https://github-readme-stats.vercel.app/api/pin/?username=SquareCodeFX&repo=intect alt=SquareCodeFX />
 </center></p>

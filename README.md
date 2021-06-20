@@ -20,6 +20,7 @@ Hey, I am Felix, I come from Germany, Cologne. Every day I try to improve myself
 
 - [Twitter](https://twitter.com/squarekot)
 - [Steam](https://steamcommunity.com/id/SquareCode)
+- [Send a mail](mailto:admin@squarecode.de)
 - Discord: snxqe悪魔#2831
 
 

@@ -23,7 +23,8 @@
 <br> </br>
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX />
+	<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX /> </p>
+<p align="center">
 	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&layout=compact&theme=radical alt=SquareCodeFX />
 </p>
 

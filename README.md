@@ -5,6 +5,7 @@
 <a href="https://github.com/squarecodefx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="SquareCode" height="20" width="20" /></a>
 <a href="https://twitter.com/squarekot" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SquareCode" height="20" width="20" /></a>
 <a href="http://instagram.com/squarekot" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SquareCode" height="20" width="20" /></a>	
+<a href="https://www.twitch.tv/SquareCodeFX" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="SquareCode" height="20" width="20" /></a>	
 </p>
 
 <p align="center">Hey, I am Felix, I come from Germany, Cologne. Every day I try to improve myself and perfect my skills. I am always open for discussions or like to participate in projects. I am also happy when people contact me via Twitter or other ways. You are also welcome to have a look at my repositories and contribute as well.</p>

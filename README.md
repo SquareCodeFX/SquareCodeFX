@@ -22,9 +22,10 @@
 <p align="center">📫 How to reach me:</p>
 
 
+
 <p>
-	<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX class="center" />
-	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&layout=compact&theme=radical alt=SquareCodeFX class="center" />
+	<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX alt="centered image" />
+	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&layout=compact&theme=radical alt=SquareCodeFX alt="centered image" />
 </p>
 
 ![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)

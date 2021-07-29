@@ -21,7 +21,8 @@
 
 <p align="center">📫 How to reach me:</p>
 
-[Twitter](https://twitter.com/squarekot) - [Steam](https://steamcommunity.com/id/SquareCode) - [Send a mail](mailto:admin@squarecode.de) - Discord: Camora デビル#0001
+<h2 align="center">
+[Twitter](https://twitter.com/squarekot) - [Steam](https://steamcommunity.com/id/SquareCode) - [Send a mail](mailto:admin@squarecode.de) - Discord: Camora デビル#0001</h2>
 
 
 <p>

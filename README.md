@@ -8,6 +8,7 @@
 
 <p align="center">Hey, I am Felix, I come from Germany, Cologne. Every day I try to improve myself and perfect my skills. I am always open for discussions or like to participate in projects. I am also happy when people contact me via Twitter or other ways. You are also welcome to have a look at my repositories and contribute as well.</p>
 
+<br> </br>
 
 <!--🔭 I’m currently working on opensource project [name](https://github.com/SquareCodeFX/)-->
 
@@ -19,6 +20,7 @@
 
 <p align="center">⚡ Fun fact: My favorite anime currently is tokyo ghoul</p>
 
+<br> </br>
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX />

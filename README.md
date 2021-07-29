@@ -1,6 +1,6 @@
 ![welcome-bg-2](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
 
-<p align="center"> <h1 align="center"> Felix M. - SquareCodeFX </h1> </p>
+<p align="center"> <h1 align="center"> Felix M. - SquareCode </h1> </p>
 <p align="center">
 <a href="https://github.com/squarecodefx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="rexlManu" height="20" width="20" /></a>
 <a href="https://twitter.com/squarekot" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rexlManu" height="20" width="20" /></a>

@@ -1,3 +1,5 @@
+![welcome-bg-2](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
+
 <p align="center"> <h1 align="left"> Felix M. - SquareCodeFX </h1> </p>
 <p align="center">
 <a href="https://github.com/squarecodefx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="rexlManu" height="20" width="20" /></a>
@@ -28,3 +30,5 @@ Hey, I am Felix, I come from Germany, Cologne. Every day I try to improve myself
 	<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX />
 	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&layout=compact&theme=radical alt=SquareCodeFX />
 </p>
+
+![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)

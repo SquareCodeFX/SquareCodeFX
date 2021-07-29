@@ -8,6 +8,7 @@
 
 <p align="center">Hey, I am Felix, I come from Germany, Cologne. Every day I try to improve myself and perfect my skills. I am always open for discussions or like to participate in projects. I am also happy when people contact me via Twitter or other ways. You are also welcome to have a look at my repositories and contribute as well.</p>
 
+
 <!--🔭 I’m currently working on opensource project [name](https://github.com/SquareCodeFX/)-->
 
 <p align="center">🌱 I’m currently learning continuous deployment.</p>
@@ -20,15 +21,12 @@
 
 <p align="center">📫 How to reach me:</p>
 
-- [Twitter](https://twitter.com/squarekot)
-- [Steam](https://steamcommunity.com/id/SquareCode)
-- [Send a mail](mailto:admin@squarecode.de)
-- Discord: snxqe悪魔#2831
+[Twitter](https://twitter.com/squarekot) - [Steam](https://steamcommunity.com/id/SquareCode) - [Send a mail](mailto:admin@squarecode.de) - Discord: Camora デビル#0001
 
 
 <p>
-	<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX />
-	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&layout=compact&theme=radical alt=SquareCodeFX />
+	<img align="center" src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX />
+	<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&layout=compact&theme=radical alt=SquareCodeFX />
 </p>
 
 ![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)

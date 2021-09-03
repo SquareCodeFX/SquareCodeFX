@@ -26,10 +26,7 @@
 
 ![Metrics](https://metrics.lecoq.io/SquareCodeFX)
 
-<p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX /> </p>
-<p align="center">
-	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&layout=compact&theme=radical alt=SquareCodeFX />
-</p>
+<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&layout=compact&theme=radical alt=SquareCodeFX />
 
 ![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)

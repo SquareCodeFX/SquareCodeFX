@@ -24,6 +24,8 @@
 
 <br> </br>
 
+![Metrics](https://metrics.lecoq.io/SquareCodeFX)
+
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical alt=SquareCodeFX /> </p>
 <p align="center">

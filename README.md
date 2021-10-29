@@ -23,7 +23,7 @@
 <p align="center">⚡ Fun fact: My favorite anime currently is tokyo ghoul</p>
 
 <br> </br>
-<p align="center">
+
 ### GitHub Profile
 ---
 [![SquareCodeFX github trophy](https://github-profile-trophy.vercel.app/?username=SquareCodeFX&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -38,5 +38,4 @@
 ### My discord profile
 ![discord](https://discord.c99.nl/widget/theme-3/477939443773472768.png)
 
- </p>
 ![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)

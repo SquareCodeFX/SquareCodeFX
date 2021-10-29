@@ -24,8 +24,18 @@
 
 <br> </br>
 
-![Metrics](https://metrics.lecoq.io/SquareCodeFX)
-![Stats](https://github-readme-stats.vercel.app/api?username=SquareCodeFX&show_icons=true&theme=radical)
-![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&layout=compact&theme=radical)
+### GitHub Profile
+---
+[![SquareCodeFX github trophy](https://github-profile-trophy.vercel.app/?username=SquareCodeFX&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+---
+[![SquareCodeFX github stats](https://github-readme-stats.vercel.app/api?username=SquareCodeFX&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![SquareCodeFX github streak](https://github-readme-streak-stats.herokuapp.com/?user=SquareCodeFX&theme=dark&layout=compact)](https://github.com/DenverCoder1/github-readme-streak-stats)
+---
+[![SquareCodeFX top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### My discord profile
+![discord](https://discord.c99.nl/widget/theme-3/477939443773472768.png)
 
 ![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)

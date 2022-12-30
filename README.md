@@ -26,7 +26,7 @@
 <a href="https://twitter.com/itsvelatic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsvelatic" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17538886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17538886" height="30" width="40" /></a>
 <a href="https://instagram.com/squarekot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="squarekot" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc0mqxszcpti9gp8iyuw3yua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc0mqxszcpti9gp8iyuw3yua" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/squarecodefx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="squarecodefx" height="30" width="40" /></a>
 <a href="https://discord.gg/CnDC9y2BXr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CnDC9y2BXr" height="30" width="40" /></a>
 </p>
 
@@ -38,6 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=squarecodefx&show_icons=true&locale=en" alt="squarecodefx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=squarecodefx&" alt="squarecodefx" /></p>
+
 
 ### My discord profile
 ![discord](https://discord.c99.nl/widget/theme-3/477939443773472768.png)

@@ -14,26 +14,19 @@
 
 <!--🔭 I’m currently working on opensource project [name](https://github.com/SquareCodeFX/)-->
 
-<p align="center">🌱 I’m currently learning continuous deployment.</p>
-
-<p align="center">👯 I’m looking to collaborate on java projects.</p>
-
-<p align="center">💬 Ask me about memes, anime or games.</p>
-
-<p align="center">⚡ Fun fact: My favorite anime currently is tokyo ghoul</p>
+-🌱 I’m currently learning continuous deployment.</p>
+-👯 I’m looking to collaborate on java projects.</p>
+-💬 Ask me about memes, anime or games.</p>
+-⚡ Fun fact: My favorite anime currently is tokyo ghoul</p>
 
 <br> </br>
 
 ### GitHub Profile
----
-[![SquareCodeFX github trophy](https://github-profile-trophy.vercel.app/?username=SquareCodeFX&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
----
-[![SquareCodeFX github stats](https://github-readme-stats.vercel.app/api?username=SquareCodeFX&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
----
-[![SquareCodeFX github streak](https://github-readme-streak-stats.herokuapp.com/?user=SquareCodeFX&theme=dark&layout=compact)](https://github.com/DenverCoder1/github-readme-streak-stats)
----
-[![SquareCodeFX top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SquareCodeFX&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
----
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%SquareCodeFX&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ ![GitHub followers](https://img.shields.io/github/followers/SquareCodeFX)
+ ![GitHub User's stars](https://img.shields.io/github/stars/SquareCodeFX?style=social)
+
+<img src="https://github.com/SquareCodeFX/SquareCodeFX/raw/master/github-metrics.svg" alt="Metrics" width="100%" height="100%">
 
 ### My discord profile
 ![discord](https://discord.c99.nl/widget/theme-3/477939443773472768.png)

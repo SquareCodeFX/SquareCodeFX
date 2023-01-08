@@ -20,4 +20,4 @@ I'm Felix, a application developer from germany.
 - [@squarekot](https://instagram.com/squarekot) on Instagram
 - [Hisoka 魔怪#0001](./) on Discord
 
-![discord](https://discord.c99.nl/widget/theme-3/477939443773472768.png)
+![discord](https://discord.c99.nl/widget/theme-2/477939443773472768.png)

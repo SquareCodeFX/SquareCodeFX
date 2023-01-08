@@ -2,6 +2,12 @@
   <img src="https://raw.githubusercontent.com/SquareCodeFX/SquareCodeFX/master/name.svg" alt="SquareCodeFX" />
 </h1>
 
+<a href="#"><img src="https://komarev.com/ghpvc/?username=squarecodefx&color=blueviolet"></a>
+<a href="#"><img src="https://img.shields.io/twitter/follow/itsvelatic?style=social"></a>
+<a href="#"><img src="https://img.shields.io/twitch/status/SquareCodeFX?style=social"></a>
+<a href="#"><img src="https://img.shields.io/youtube/channel/subscribers/UC0MQXszCPTI9Gp8IYUW3yuA?style=social"></a>
+<a href="#"><img src="https://img.shields.io/github/followers/SquareCodeFX?style=social"></a>
+
 ## Hey! 👋
 I'm Felix, a application developer from germany.
 

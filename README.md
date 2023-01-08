@@ -21,6 +21,3 @@ I'm Felix, a application developer from germany.
 - [@itsvelatic](https://twitter.com/itsvelatic) on Twitter
 - [@squarekot](https://instagram.com/squarekot) on Instagram
 - [Hisoka 魔怪#0001](./) on Discord
-
-![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
-

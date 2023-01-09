@@ -12,7 +12,6 @@
 I'm Felix, a application developer from germany.
 
 - 🧭 Founder of [@ProxycheckIO-API](https://github.com/SquareCodeFX/proxycheck.io-api) and [@EventSystem](https://github.com/SquareCodeFX/EventSystem)
-
 - 👥 Core team member at [@Interlink-Media](https://github.com/Interlink-Media)
 
 ## Skills

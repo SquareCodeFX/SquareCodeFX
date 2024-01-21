@@ -7,7 +7,5 @@
   <a href="https://www.youtube.com/channel/UC0MQXszCPTI9Gp8IYUW3yuA"><img src="https://img.shields.io/youtube/channel/subscribers/UC0MQXszCPTI9Gp8IYUW3yuA?style=social"></a>
   <a href="https://github.com/SquareCodeFX"><img src="https://img.shields.io/github/followers/SquareCodeFX?style=social"></a>
   <p></p>
-  <img src="https://discord.c99.nl/widget/theme-2/477939443773472768.png" alt="SquareCodeFX" />
-  <p></p>
   <img src="https://raw.githubusercontent.com/SquareCodeFX/SquareCodeFX/master/snake.svg" alt="SquareCodeFX" />
 </h1>

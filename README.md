@@ -10,5 +10,5 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/SquareCodeFX/SquareCodeFX/master/snake.svg" alt="SquareCodeFX" />
-  ![discord](https://discord.c99.nl/widget/theme-2/477939443773472768.png)
 </h1>
+![discord](https://discord.c99.nl/widget/theme-2/477939443773472768.png)

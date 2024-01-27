@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/SquareCodeFX/SquareCodeFX/master/name.svg" alt="SquareCodeFX" />
 
@@ -9,3 +11,5 @@
   <p></p>
   <img src="https://raw.githubusercontent.com/SquareCodeFX/SquareCodeFX/master/snake.svg" alt="SquareCodeFX" />
 </h1>
+
+![Footer](./footer.png)
